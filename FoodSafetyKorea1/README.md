@@ -35,8 +35,9 @@
 ### Once the document classification is complete, create the DOMSource and FileWriter objects, the parameters of the TransformerFactory class, and convert and create a complete XML document using the .transform method.
 
 <hr/>
-# Finally
-# when the data is converted, the user can enter an identification code (Distribution Barcode) to store the transformed data on the server to view the information.
+## Finally
+
+## when the data is converted, the user can enter an identification code (Distribution Barcode) to store the transformed data on the server to view the information.
 
 ## Codes and other documents
 ### EPCISDocumentGenerator.java --> Converter Class
