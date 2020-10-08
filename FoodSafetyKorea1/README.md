@@ -1,21 +1,23 @@
- ### PRDLST_REPORT_NO 	  Item Reporting (Report) Number
->
-> ### PRMS_DT Reporting 	(Report Date)
->
-> ### END_DT			        End Date
->
-> ### PRDLST_NM 		      Product Name
->
-> ### POG_DAYCNT 		      Expiration date
->
-> ### PRDLST_DCNM 		    Food Type
->
-> ### BSSH_NM 		        Manufacturer Name
->
-> ### INDUTY_NM 		      Industry Name
->
-> ### SITE_ADDR 		      Address
->
+# This was modelled as EPCISDocuments using open data provided by FoodSafetyKorea. Open data is 'Barcode-Linked Product Information', and the information provided by this data is described below.
+
+### PRDLST_REPORT_NO 	  Item Reporting (Report) Number
+
+### PRMS_DT Reporting 	(Report Date)
+
+### END_DT			        End Date
+
+### PRDLST_NM 		      Product Name
+
+### POG_DAYCNT 		      Expiration date
+
+### PRDLST_DCNM 		    Food Type
+
+### BSSH_NM 		        Manufacturer Name
+
+### INDUTY_NM 		      Industry Name
+
+### SITE_ADDR 		      Address
+
 ### CLSBIZZ_DT 		      Closing Date
 
 ### BAR_CD 			        Distribution Barcode
