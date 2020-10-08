@@ -36,9 +36,8 @@
 
 <hr/>
 
-## Finally,
-
-## when the data is converted, the user can enter an identification code (Distribution Barcode) to store the transformed data on the server to view the information.
+# Finally,
+### when the data is converted, the user can enter an identification code (Distribution Barcode) to store the transformed data on the server to view the information.
 
 ## Codes and other documents
 ### EPCISDocumentGenerator.java --> Converter Class
